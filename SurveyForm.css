@@ -1,0 +1,39 @@
+
+.page{
+    margin :30px 30px 30px 30px;
+    Padding:50px 50px 50px 200px;
+    font-size:14px;
+}
+.footer1 {
+    Padding-left:120px;
+}
+.lefttechnical{
+    margin :30px 30px 30px 20px;
+    Padding:40px 30px 40px 30px;
+    font-size:14px;
+
+}
+.righttechnical{
+    margin :30px 20px 30px 30px;
+    Padding:40px 40px 40px 20px;
+    font-size:14px;
+
+}
+.leftdiv{
+    left:0;
+
+}
+
+.rightdiv{
+    right:0;
+}
+
+.vert{
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-Index: 1;
+    top:0;
+    padding-top: 30px;
+    overflow-y:scroll;
+}
